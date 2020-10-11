@@ -1,4 +1,4 @@
-package visitor;
+package behavioral.visitor;
 
 public class Engine implements CarElement {
   @Override

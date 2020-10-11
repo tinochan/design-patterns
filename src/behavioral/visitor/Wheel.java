@@ -1,4 +1,4 @@
-package visitor;
+package behavioral.visitor;
 
 public class Wheel implements CarElement {
   private final String name;
